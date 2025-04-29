@@ -1,0 +1,13 @@
+streamlit==1.33.0
+yfinance==0.2.37
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+scikit-learn==1.4.2
+scipy==1.13.0
+plotly==5.20.0
+wordcloud==1.9.3
+statsmodels==0.14.0
+prophet==1.1.5
+seaborn==0.12.0
+tenacity==8.2.3
